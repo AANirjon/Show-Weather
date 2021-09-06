@@ -1,0 +1,40 @@
+*{
+    font-family: "Rimouski";
+}
+
+.all-items{
+    background-color: rgba(51, 51, 51, 0.459);
+    height: 100 vh;
+    margin-top: 150px;
+    border-radius: 18px;
+}
+
+.app-title{
+    color: #453992;
+}
+
+.hriz{
+    border-bottom: 3px solid #110466;
+}
+
+.temp-cur{
+    cursor: pointer;
+}
+
+.temp-cur p{
+    font-size: 64px;
+    color: whitesmoke;
+}
+
+.temp-desc{
+    text-transform: capitalize;
+    margin-top: 14px;
+}
+
+.temp-desc , .temp-dtl {
+    color: #2d462d;
+}
+
+.temp-loca{
+    color: #6d2c57;
+}
