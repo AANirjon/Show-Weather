@@ -3,14 +3,14 @@
 }
 
 .all-items{
-    background-color: rgba(51, 51, 51, 0.459);
+    background-color: rgba(51, 51, 51, 0.781);
     height: 100 vh;
-    margin-top: 150px;
+    margin-top: 120px;
     border-radius: 18px;
 }
 
 .app-title{
-    color: #453992;
+    color: #bab0fc;
 }
 
 .hriz{
@@ -22,19 +22,21 @@
 }
 
 .temp-cur p{
-    font-size: 64px;
+    font-size: 80px;
     color: whitesmoke;
+}
+.temp-cur span{
+    font-size: 60px;
 }
 
 .temp-desc{
     text-transform: capitalize;
-    margin-top: 14px;
 }
 
 .temp-desc , .temp-dtl {
-    color: #2d462d;
+    color: #03ace0;
 }
 
 .temp-loca{
-    color: #6d2c57;
+    color: gold;
 }
